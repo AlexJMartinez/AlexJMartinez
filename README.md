@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexJMartinez
-- 👀 I’m interested in generative art/processing
-- 🌱 I’m currently learning JS Canvas and P5.js
+- 👀 I’m interested in generative art/processing, and awesome user interfaces.
+- 🌱 I’m currently learning JS Canvas, P5.js, Blender, Touch Designer.
 - 💞️ I’m looking to collaborate on generative art
 - 📫 How to reach me IG: debtfortunes
 
