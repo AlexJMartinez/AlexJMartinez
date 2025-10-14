@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexJMartinez
-- 👀 I’m interested in generative art/processing, tech and designing immersive experiences.
+- 👀 I’m interested in generative art/processing/AI, new tech and designing immersive experiences.
 - 🌱 I’m currently learning working with Mediapipe, Leap Motion and OAK-D within TouchDesigner for immersive art installations. 
 - 💞️ I’m looking to collaborate with like-minded artists/creators
 - 📫 How to reach me IG: debtfortunes 
