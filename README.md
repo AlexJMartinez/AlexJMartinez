@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexJMartinez
-- 👀 I’m interested in generative art/processing, and awesome user interfaces.
-- 🌱 I’m currently learning JS Canvas, P5.js, Blender, Touch Designer.
-- 💞️ I’m looking to collaborate on generative art
-- 📫 How to reach me IG: debtfortunes
+- 👀 I’m interested in generative art/processing, tech and designing immersive experiences.
+- 🌱 I’m currently learning working with Mediapipe, Leap Motion and OAK-D within TouchDesigner for immersive art installations. 
+- 💞️ I’m looking to collaborate with like-minded artists/creators
+- 📫 How to reach me IG: debtfortunes 
 
 <!---
 AlexJMartinez/AlexJMartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
